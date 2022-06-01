@@ -3,10 +3,12 @@ function pesos(dolar){
     return dolar*120;
 }
 
+//funcion mensaje agradecimiento
 function agradecer(){
     alert("Gracias por usar el conversor");
 }
 
+//funcion mensaje no ingresa monto
 function noIngresa(){
     alert("No ingresaste monto");
 }
